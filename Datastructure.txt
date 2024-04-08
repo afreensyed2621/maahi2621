@@ -1,0 +1,28 @@
+Sentiment Analysis of Customers' Reviews Using a Hybrid Evolutionary SVM-Based Approach in an Imbalanced Data Distribution
+
+
+analysis, SVM, PSO, SMOTE, oversampling, feature extraction, features weighting.
+
+IEEE Access and Machine Learning,Volume:10,Issue Date:03.March.2022
+
+
+Sentiment_Analysis_of_Customers_Reviews
+
+
+sentiment_analysis_of_customers_reviews
+
+
+
+
+sentiment_prediction
+
+Restaurant
+Reviewer
+Review
+Rating
+Metadata
+Data_Time
+Pictures
+Prediction
+
+
